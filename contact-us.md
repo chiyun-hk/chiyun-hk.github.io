@@ -1,6 +1,6 @@
 ---
 layout: simple
-title: Privacy Policy
+title: Contact Us
 ---
 # Contact Us
 
