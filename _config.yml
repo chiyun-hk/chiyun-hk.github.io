@@ -1,1 +1,2 @@
-theme: null
+include: ["_layouts"]
+markdown: kramdown

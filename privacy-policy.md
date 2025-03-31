@@ -1,3 +1,7 @@
+---
+layout: simple
+title: Privacy Policy
+---
 # Privacy Policy
 
 Last Updated: March 28, 2025
