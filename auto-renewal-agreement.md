@@ -1,6 +1,6 @@
 ---
 layout: simple
-title: User Agreement
+title: Auto-Renewal Agreement
 ---
 # FastClip Auto-Renewal Agreement
 
