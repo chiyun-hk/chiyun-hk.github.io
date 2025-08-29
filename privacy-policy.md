@@ -96,7 +96,7 @@ We may disclose your information:
 
 ## (4) Third-Party Services
 
-*   TikTok Data Collection SDK
+*   TikTok For Business
 
 *   Third-Party Name：TikTok
 
