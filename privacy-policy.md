@@ -93,7 +93,18 @@ We may disclose your information:
 *   To protect rights or safety
     
 *   During business transfers (e.g., mergers)
-    
+
+## (4) Third-Party Services
+
+*   TikTok Data Collection SDK
+
+*   Third-Party Name：TikTok
+
+Purpose of Use：To provide data statistics and analysis services. For advertising purposes, this SDK collects user ad interactions, certain device information, and specific in-app conversion events. This data is used for ad-related activities, including but not limited to, ad monitoring, attribution, and campaign optimization.
+
+Information Collected：Device model, operating system, network information, IP address, and personal information (such as name, phone number, email address, company name, company location, and information used for identity verification). Additionally, Cookies and other tracking technologies may be used to collect time zone information, local settings, and server logs (which may include data such as access dates and times).
+
+Third-Party Privacy Policy Link：https://ads.tiktok.com/i18n/official/policy/privacy
 
 # 4. Security
 
